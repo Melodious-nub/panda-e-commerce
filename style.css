@@ -41,3 +41,11 @@
 .card{
     box-shadow: 3px 3px 12px grey;
 }
+#subscribe{
+    height: 300px;
+}
+.footer{
+    text-align: center;
+    font-weight: 800;
+    color: dimgray;
+}
